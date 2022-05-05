@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">pr9</string>
+
+    <string name="Korzina">Корзина</string>
+    <string name="BlueCheese">Блю чиз</string>
+    <string name="BlueCheeseInfo">Идеальное сочетание: нежное куриное филе с кусочками сыра блю чиз, соусом Пармеджано, смесью итальянских сыров и сыром Моцарелла</string>
+    <string name="VetchinaIGribi">Ветчина и грибы</string>
+    <string name="VetchinaIGribiInfo">Нежная пицца с соусом "Чесночный Рэнч", Моцареллой, шампиньонами, ароматной ветчиной и чесноком</string>
+<string name="fSira">4 сыра</string>
+    <string name="fSiraInfo">Традиционное сочетание сыров: Моцарелла, мягкий молодой сыр, сыр с голубой плесенью, Реджанито, фирменный томатный соус и орегано</string>
+
+
+</resources>
